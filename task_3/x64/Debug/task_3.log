@@ -1,0 +1,6 @@
+﻿  Code.c
+C:\Users\ashbn\source\repos\Laboratory_Session_3\task_3\Code.c(1,9): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+      C:\Users\ashbn\source\repos\Laboratory_Session_3\task_3\Code.c(1,9):
+      "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+  
+  task_3.vcxproj -> C:\Users\ashbn\source\repos\Laboratory_Session_3\x64\Debug\task_3.exe

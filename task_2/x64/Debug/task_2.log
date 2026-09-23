@@ -1,0 +1,4 @@
+﻿  Code.c
+C:\Users\ashbn\source\repos\Laboratory_Session_3\task_2\Code.c(19,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ashbn\source\repos\Laboratory_Session_3\task_2\Code.c(20,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  task_2.vcxproj -> C:\Users\ashbn\source\repos\Laboratory_Session_3\x64\Debug\task_2.exe
