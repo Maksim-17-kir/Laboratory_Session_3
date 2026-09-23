@@ -3,8 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Homework/Homework.vcxproj" />
-  <Project Path="task_1/task_1.vcxproj" />
-  <Project Path="task_2/task_2.vcxproj" />
-  <Project Path="task_3/task_3.vcxproj" />
+  <Project Path="Homework/Homework.vcxproj" Id="5201d64f-86a5-492d-9667-45c92f0e0eca" />
+  <Project Path="task_1/task_1.vcxproj" Id="b888a31a-2e2d-48fc-974d-2e804e94aba1" />
+  <Project Path="task_2/task_2.vcxproj" Id="be5c926a-cdcc-4e73-a7a8-45423b7c730c" />
+  <Project Path="task_3/task_3.vcxproj" Id="e7bc8e6b-d173-4c8d-86a6-558e423d6817" />
 </Solution>

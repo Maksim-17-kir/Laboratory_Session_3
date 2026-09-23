@@ -15,9 +15,12 @@ int main()
 
     puts("¬ведите значение дл€ расчЄта:");
     scanf("%d", &dym);
+    printf("\n");
 
     result = D * dym;
     result1 = P * dym;
+
+    system("pause");
 
     printf("\n%d английских дюймов Ц это %.1f см ", dym, result);
     printf("\n%d испанских дюймов Ц это %.1f см ", dym, result1);

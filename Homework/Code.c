@@ -15,9 +15,12 @@ int main()
 
     puts("¬ведите значение дл€ расчЄта:");
     scanf("%d", &dym);
+    printf("\n");
 
     result = F * dym;
     result1 = Y * dym;
+
+    system("pause");
 
     printf("\n%d килограмм(а) Ц это %.1f фунтов(а) ", dym, result);
     printf("\n%d килограмм(а) Ц это %.1f унций ", dym, result1);

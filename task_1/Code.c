@@ -13,7 +13,9 @@ int main()
     scanf("%d", &num);
     printf("¬ведено число: %d\n\n", num);
 
-    puts("¬ведите второе целое число:");
+    system("pause");
+
+    puts("\n¬ведите второе целое число:");
     scanf("%d", &num2);
     printf("¬ведено число: %d\n\n", num2);
 

@@ -3,4 +3,5 @@ C:\Users\ashbn\source\repos\Laboratory_Session_3\task_1\Code.c(4,9): warning C40
       C:\Users\ashbn\source\repos\Laboratory_Session_3\task_1\Code.c(4,9):
       "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
   
+C:\Users\ashbn\source\repos\Laboratory_Session_3\task_1\Code.c(16,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
   task_1.vcxproj -> C:\Users\ashbn\source\repos\Laboratory_Session_3\x64\Debug\task_1.exe
